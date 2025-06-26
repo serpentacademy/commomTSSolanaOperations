@@ -16,7 +16,7 @@ import {
 import * as anchor from "@coral-xyz/anchor";
 
 /* ── constants ─────────────────────────────────────────────── */
-const PROGRAM_ID = new PublicKey("ktnDVvgC8yhd2QqU32shpSA3dRQCYjUJBM4wbUVTycD");
+const PROGRAM_ID = new PublicKey("5G1DhVdp9XFAzSHadnpEDmeE8KeEjv2q9vjndPX41ifN");
 const MINT_ID    = new PublicKey("HCfyWwHhWGVLYQE93sF7Amweh218Fs63iw8xMRrMY8zs");
 
 /* ── provider / payer ──────────────────────────────────────── */
