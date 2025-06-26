@@ -5,3 +5,6 @@ token.json
 merkleTreeKeypair.json
 walletgrind.json
 walletgrindarray.json
+collectionDataMainnet.json
+collectionData.json
+collectionNFT.json
